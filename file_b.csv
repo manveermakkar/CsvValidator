@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,unit_price,total_price,status,region,sales_rep,discount_pct
+1001,Alice Johnson,Widget A,5,19.99,99.95,Delivered,North,Sarah,0.05
+1002,Bob Smith,Widget B,2,49.99,99.98,Dispatched,South,Mike,0.00
+1003,Carol White,Gadget X,1,149.99,149.99,Processing,East,Sarah,0.15
+1004,David Brown,Widget A,10,19.99,199.90,Delivered,West,John,0.05
+1005,Eve Davis,Gadget Y,4,79.99,239.97,Shipped,North,Mike,0.00
+1006,Frank Miller,Widget C,7,29.99,209.93,Delivered,South,Sarah,0.03
+1007,Grace Wilson,Gadget X,2,149.99,299.98,Cancelled,East,John,0.10
+1008,Henry Moore,Widget B,4,49.99,199.96,Shipped,North,Mike,0.00
+1009,Iris Taylor,Widget A,8,20.00,159.92,Processing,North,Sarah,0.05
+1010,James Anderson,Gadget Z,1,299.99,349.99,Delivered,South,John,0.00

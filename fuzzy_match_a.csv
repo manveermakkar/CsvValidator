@@ -1,0 +1,13 @@
+vendor_name,contract_value,category,payment_terms,account_manager,status
+Deloitte Consulting,450000,Management Consulting,Net-30,Sarah Mitchell,Active
+KPMG Advisory Services,380000,Financial Audit,Net-45,Tom Richards,Active
+Accenture Technology,520000,IT Consulting,Net-30,Sarah Mitchell,Active
+PricewaterhouseCoopers,290000,Financial Audit,Net-60,John Baker,Active
+Ernst & Young Global,340000,Management Consulting,Net-30,Tom Richards,Active
+International Business Machines,880000,Technology,Net-45,Alex Wong,Active
+Microsoft Corporation,650000,Software Licensing,Net-30,Alex Wong,Active
+Oracle Systems Corp,420000,Database Solutions,Net-45,Linda Park,Active
+SAP America Inc,310000,ERP Software,Net-30,Linda Park,Active
+Gartner Research Group,175000,Market Research,Net-30,John Baker,Active
+McKinsey & Company,560000,Strategy Consulting,Net-45,Sarah Mitchell,Active
+Boston Consulting Group,480000,Strategy Consulting,Net-30,Tom Richards,Active
